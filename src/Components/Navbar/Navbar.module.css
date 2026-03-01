@@ -1,0 +1,43 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    font-style: normal;
+}
+
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 16px 400px;
+  background-color: #ffffff;
+
+}
+
+.logo {
+  color: #ffffff;
+  font-size: 1.25rem;
+  font-weight: bold;
+ color: rgba(0, 0, 0, 0.459);
+}
+
+.menu {
+  list-style: none;
+  display: flex;
+  gap: 24px;
+  margin: 0;
+  padding: 0;
+  
+}
+
+.menu li a {
+  color: #e5e7eb;
+  text-decoration: none;
+  font-weight: 500;
+    color: rgba(0, 0, 0, 0.664);
+}
+
+.menu li a:hover {
+  color: #00e1ff;
+}
