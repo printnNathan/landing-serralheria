@@ -10,7 +10,6 @@ function Home() {
         <Navbar></Navbar>
         <Sobre></Sobre>
         <Habilidades></Habilidades>
-        <h1>Home</h1>
     </div>
   );
 }
