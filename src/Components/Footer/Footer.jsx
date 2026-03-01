@@ -10,7 +10,7 @@
           </p>
           <p>
             <i className="fab fa-whatsapp" aria-hidden="true"></i>
-            (11) 91368-6502
+            +55 11 91482-4115
           </p>
         </div>
         <hr className="footer-divider" />
@@ -21,3 +21,4 @@
 }
 
 export default Footer;
+

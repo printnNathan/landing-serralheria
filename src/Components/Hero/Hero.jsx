@@ -7,7 +7,7 @@
           Soluções completas em serralheria com qualidade, segurança e profissionalismo em Cajamar/SP.
         </p>
         <a
-          href="https://wa.me/5511913686502?text=Olá!%20Gostaria%20de%20solicitar%20um%20orçamento."
+          href="https://wa.me/5511914824115?text=Olá!%20Gostaria%20de%20solicitar%20um%20orçamento."
           className="btn btn-primary"
           target="_blank"
           rel="noreferrer"
@@ -21,3 +21,4 @@
 }
 
 export default Hero;
+

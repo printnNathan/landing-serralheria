@@ -30,8 +30,8 @@
               <div>
                 <h4>WhatsApp</h4>
                 <p>
-                  <a href="https://wa.me/5511913686502" target="_blank" rel="noreferrer">
-                    (11) 91368-6502
+                  <a href="https://wa.me/5511914824115" target="_blank" rel="noreferrer">
+                    +55 11 91482-4115
                   </a>
                 </p>
               </div>
@@ -66,3 +66,4 @@
 }
 
 export default Location;
+
