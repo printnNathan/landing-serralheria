@@ -1,12 +1,12 @@
-﻿import Navbar from '../../Components/Navbar';
-import Hero from '../../components/Hero/Hero';
-import About from '../../components/About/About';
-import Services from '../../components/Services/Services';
-import Portfolio from '../../components/Portfolio/Portfolio';
-import Cta from '../../components/Cta/Cta';
-import Location from '../../components/Location/Location';
-import Footer from '../../components/Footer/Footer';
-import WhatsAppFloat from '../../components/WhatsAppFloat/WhatsAppFloat';
+﻿import Navbar from '../../Components/Navbar/Navbar';
+import Hero from '../../Components/Hero/Hero';
+import About from '../../Components/About/About';
+import Services from '../../Components/Services/Services';
+import Portfolio from '../../Components/Portfolio/Portfolio';
+import Cta from '../../Components/Cta/Cta';
+import Location from '../../Components/Location/Location';
+import Footer from '../../Components/Footer/Footer';
+import WhatsAppFloat from '../../Components/WhatsAppFloat/WhatsAppFloat';
 
 function HomePage() {
   return (

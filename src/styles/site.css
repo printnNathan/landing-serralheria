@@ -39,6 +39,11 @@ main {
   background: var(--white);
   box-shadow: var(--shadow);
   z-index: 1000;
+  transition: box-shadow 0.3s ease;
+}
+
+.navbar.scrolled {
+  box-shadow: var(--shadow-lg);
 }
 
 .nav-container {
