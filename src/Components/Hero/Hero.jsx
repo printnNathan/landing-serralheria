@@ -15,6 +15,16 @@
           <i className="fab fa-whatsapp" aria-hidden="true"></i>
           Solicitar Orçamento
         </a>
+        <div className="hero-badges">
+          <div className="badge">
+            <i className="fas fa-truck"></i>
+            <span>Pagamento na Entrega</span>
+          </div>
+          <div className="badge">
+            <i className="fas fa-credit-card"></i>
+            <span>Até 10x Sem Juros</span>
+          </div>
+        </div>
       </div>
     </section>
   );
