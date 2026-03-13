@@ -42,7 +42,7 @@ function Navbar() {
             <li><a href="#home" onClick={handleCloseMenu}>Início</a></li>
             <li><a href="#about" onClick={handleCloseMenu}>Sobre</a></li>
             <li><a href="#services" onClick={handleCloseMenu}>Serviços</a></li>
-            <li><a href="#portfolio" onClick={handleCloseMenu}>Portfólio</a></li>
+            <li><a href="#portfolio" onClick={handleCloseMenu}>Nossos Trabalhos</a></li>
             <li><a href="#location" onClick={handleCloseMenu}>Localização</a></li>
           </ul>
         </nav>
